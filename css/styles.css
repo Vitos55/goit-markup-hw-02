@@ -1,3 +1,4 @@
+/* ============ COMMON STYLES ============ */
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -57,6 +58,38 @@ a {
 .contacts-link:focus {
   color: #404bbf;
 }
+/* ============ COMMON STYLES ============ */
+
+/* ============ MAIN-HERO-STYLES ============ */
+.hero-section {
+  background-color: #2e2f42;
+}
+.main-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #fff;
+}
+
+.order-service-btn {
+  border-radius: 4px;
+  padding: 16px 32px;
+  width: 169px;
+  height: 56px;
+  color: #ffffff;
+  background-color: #404bbf;
+  cursor: pointer;
+}
+
+.order-service-btn:hover,
+.order-service-btn:focus {
+  box-shadow: 0 4px 4px 0 #00000026;
+  background: #4d5ae5;
+}
+
+/* ============ MAIN-HERO-STYLES ============ */
 
 .page-footer {
   background-color: #2e2f42;
