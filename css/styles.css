@@ -95,7 +95,8 @@ a {
 /* ============ BENEFITS-STYLES ============ */
 
 .benefits-list-title,
-.our-team-title {
+.our-team-title,
+.our-portfolio-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -132,8 +133,7 @@ a {
 /* ============ Our Team Styles ============ */
 
 /* ============ Our Portfolio ============ */
-.section-title {
-}
+
 /* ============ Our Portfolio ============ */
 
 /* ============ Page Footer ============ */
