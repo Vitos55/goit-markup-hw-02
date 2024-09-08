@@ -70,18 +70,23 @@ a {
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: #fff;
+  text-align: center;
 }
 
 /* BUTTON */
 
 .order-service-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
   color: #ffffff;
-  background-color: #404bbf;
+  background-color: #4d5ae5;
 }
 
 .order-service-btn:hover,
 .order-service-btn:focus {
-  background: #4d5ae5;
+  background-color: #404bbf;
   cursor: pointer;
 }
 
