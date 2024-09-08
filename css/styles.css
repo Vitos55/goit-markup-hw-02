@@ -62,8 +62,6 @@ a {
 
 /* ============ MAIN-HERO-STYLES ============ */
 .hero-section {
-  width: 1440px;
-  height: 600px;
   background-color: #2e2f42;
 }
 .main-title {
@@ -72,6 +70,7 @@ a {
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
+
   color: #fff;
 }
 
@@ -83,16 +82,10 @@ a {
   color: #ffffff;
   background-color: #404bbf;
   cursor: pointer;
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  flex-direction: row;
-  gap: 10px;
 }
 
 .order-service-btn:hover,
 .order-service-btn:focus {
-  box-shadow: 0 4px 4px 0 #00000026;
   background: #4d5ae5;
 }
 
