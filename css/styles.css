@@ -94,7 +94,8 @@ a {
 
 /* ============ BENEFITS-STYLES ============ */
 
-.benefits-list-title {
+.benefits-list-title,
+.our-team-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -102,12 +103,32 @@ a {
   color: #2e2f42;
 }
 
-.benefits-list-text {
+.benefits-list-text,
+.our-team-text {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
 /* ============ BENEFITS-STYLES ============ */
 
+/*============ Our Team ============ */
+
+.our-team-section {
+  background-color: #f4f4fd;
+}
+
+.section-title {
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.our-team-item {
+  background-color: #ffffff;
+}
+
+/* ============ Our Team ============ */
 .page-footer {
   background-color: #2e2f42;
 }
