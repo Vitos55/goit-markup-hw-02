@@ -132,8 +132,12 @@ a {
 /* ============ Our Team Styles ============ */
 
 /* ============ Our Portfolio ============ */
-
+.section-title {
+}
 /* ============ Our Portfolio ============ */
+
+/* ============ Page Footer ============ */
 .page-footer {
   background-color: #2e2f42;
 }
+/* ============ Page Footer ============ */
