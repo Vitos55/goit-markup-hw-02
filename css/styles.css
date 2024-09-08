@@ -92,6 +92,22 @@ a {
 
 /* ============ MAIN-HERO-STYLES ============ */
 
+/* ============ BENEFITS-STYLES ============ */
+
+.benefits-list-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.benefits-list-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+/* ============ BENEFITS-STYLES ============ */
+
 .page-footer {
   background-color: #2e2f42;
 }
