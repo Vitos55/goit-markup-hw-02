@@ -113,7 +113,9 @@ a {
 /*============ Our Team ============ */
 
 .our-team-section {
+  line-height: 1.11;
   background-color: #f4f4fd;
+  text-transform: capitalize;
 }
 
 .section-title {
