@@ -69,10 +69,10 @@ a {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  text-align: center;
-
   color: #fff;
 }
+
+/* BUTTON */
 
 .order-service-btn {
   border-radius: 4px;
@@ -81,12 +81,12 @@ a {
   height: 56px;
   color: #ffffff;
   background-color: #404bbf;
-  cursor: pointer;
 }
 
 .order-service-btn:hover,
 .order-service-btn:focus {
   background: #4d5ae5;
+  cursor: pointer;
 }
 
 /* ============ MAIN-HERO-STYLES ============ */
